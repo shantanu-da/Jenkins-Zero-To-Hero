@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: shan123456/shantanu:replaceImageTag
+        image: shan123456/shantanu:7
         ports:
         - containerPort: 8080
       imagePullSecrets:
